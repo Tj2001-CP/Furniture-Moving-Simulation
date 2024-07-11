@@ -2501,7 +2501,8 @@ MonoBehaviour:
   - name: Plant
     prefab: {fileID: 7248342789926861466, guid: 2da939542bb0c574f998258a1885726b,
       type: 3}
-    button: {fileID: 1437080327}
+    button: {fileID: 3948153978084646173, guid: b9abac2081341ca48988e15c8f6ab306,
+      type: 3}
   - name: sofa
     prefab: {fileID: 930894479905870326, guid: b6e86aa635b3f74409afeeab8f4d025b, type: 3}
     button: {fileID: 917189251}
